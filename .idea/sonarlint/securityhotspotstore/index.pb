@@ -5,3 +5,5 @@ O
 contracts/impact-assesment.clar,2/8/2847666b20b4dc89a465aa57cad3b6a87a492f5b
 S
 #contracts/project-verification.clar,8/b/8b9b88a9f67dd8667e5cbd9073febb8c3ffb3e3a
+P
+ contracts/zoning-compliance.clar,b/0/b025ba5e7925781f00fd10792e0847efe8565038
